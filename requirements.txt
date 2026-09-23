@@ -1,0 +1,2 @@
+# Este proyecto solo usa librerías estándar de Python (tkinter, sqlite3, datetime).
+# No es necesario instalar nada externo para ejecutarlo.
